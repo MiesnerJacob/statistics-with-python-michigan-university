@@ -1,0 +1,26 @@
+TO: Jane Doe, US Bicycle Team Head Trainer
+FROM: John Doe, Data Scientist
+DATE: May 16, 2021
+SUBJECT: Chocolate Consumption/Bicycling Performance Experiment Analysis
+
+Overview
+This memorandum is designed to address the experiment conducted by the U.S. bicycle team to help them train for the Tour de France. The experiment was designed to test how the regular consumption of chocolate affects the total distance
+covered during an all-out sprint and if the type of chocolate consumed matters.
+
+Benefits of a Cross-over Experiment
+A cross-over experimental design was used for this experiment. Each of the experiment's nine male participants underwent baseline measurements before receiving the first treatment. Next, those same measurements were taken
+in two trials after participants consumed either dark chocolate (40 grams of Dove) or white chocolate (40 grams of Milkybar) for two weeks. The order of the treatment was randomized. Cross-over studies have increased statistical
+power because of the elimination of confounding variables that could arise from using different subjects to measure the effects of the treatments.
+
+Analysis of Test Results
+First, let’s look at the difference in mean distance covered during an all-out sprint (dark chocolate over baseline). The p-value for this difference is .001, lower than our significance level of 0.05, which enables us to state that the dark chocolate group’s increased all-out sprint distance over the baseline group is statistically significant! This test tells us that dark chocolate has a positive effect on all-out sprint distance, and we can say with 95% confidence the average performance gain is somewhere between 165m to 314m. 
+Next, let’s look at the difference in mean distance covered during an all-out sprint (white chocolate over baseline). The p-value for the performance increase of white chocolate over baseline is 0.319 which is greater than our significance
+level of .05, which says we have insufficient evidence to reject the null hypothesis. This means we do not have the evidence to prove that white chocolate provides a performance gain over not eating chocolate at all, even though the
+point estimate for the white chocolate group was greater.
+Finally, let’s look at the difference in mean distance covered during an all-out sprint (dark chocolate over white chocolate). The p-value for this difference is .003, lower than our significance level of 0.05, which enables us to state that the dark chocolate group’s increased all-out sprint distance over the white chocolate group is statistically significant! This test tells us that dark chocolate has a more positive effect on all-out sprint distance than white chocolate, and we can say
+with 95% confidence, the average performance gain is somewhere between 82m to 292m.
+
+Conclusion
+The results of this statistical analysis support the conclusion that treating male cyclists with dark chocolate 2 weeks before measuring an all-out sprint distance is better than not treating with chocolate or treating with white chocolate.
+
+Sources: Patel, R. K.; Brouner, J.; Spendiff, O. Journal of the International Society of Sports Nutrition. 2015 12:47
